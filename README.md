@@ -1,6 +1,6 @@
 
 
-  <h3 align="center">From_Googlesheets_to_MySQL</h3>
+  <h3 align="center">From Googlesheets to MySQL</h3>
 
   <p align="center">
     An interest method of getting your data from Google Analytics and Google Search Console into MySQL
